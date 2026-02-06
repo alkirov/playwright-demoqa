@@ -76,7 +76,7 @@ playwright-demoqa/
 - Runs Playwright tests headless
 - Captures **screenshots & video artifacts**
 - Example badge:
-![Build Status](https://github.com/<your-username>/playwright-demoqa/actions/workflows/ci.yml/badge.svg)
+![Build Status](https://github.com/alkirov/playwright-demoqa/actions/workflows/ci.yml/badge.svg)
 
 ---
 
